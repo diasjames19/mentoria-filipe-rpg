@@ -13,7 +13,10 @@ namespace mentoria_filipe_rpg.src.Model
             
         
         }
+        
 
+
+        
          public override string Attack()
         {
            
@@ -36,5 +39,6 @@ namespace mentoria_filipe_rpg.src.Model
             
             
         }
+    
     }
 }

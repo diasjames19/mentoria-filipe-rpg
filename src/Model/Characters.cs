@@ -9,7 +9,8 @@ namespace mentoria_filipe_rpg.src.Model
     {
 
 
-        public Characters(string Name, int level,string CategoryType,string CharacterType){
+        public Characters(string Name, int level ,string CategoryType,string CharacterType){
+    
             this.Name = Name;
             this.CategoryType = CategoryType;
             this.CharacterType = CharacterType;
@@ -21,6 +22,27 @@ namespace mentoria_filipe_rpg.src.Model
 
         public string? CategoryType;
         public int level;
+
+
+          public string UpLevel(bool InimigoBoss,int Inimigo){
+            
+            if(InimigoBoss == false){
+                 while(Inimigo != 0){
+                if(Inimigo <= 9){
+                     this.level = level*1;
+                }else{
+                    this.level = level*3;
+                    
+                }
+                 Inimigo--;
+                 }
+                 return $"Leve Up: {this.level}";
+            }else{
+                return $"Leve Up: {this.level*6}";
+            }
+            
+            
+        }
 
         public virtual string Attack(){
             return this.Name + "Atacou o inimigo!";
