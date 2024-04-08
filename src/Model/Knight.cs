@@ -26,11 +26,11 @@ namespace mentoria_filipe_rpg.src.Model
         {
             if(DoubleSword != true && Bonus <= 1){
                 
-               return this.Name + "\nAtque em X com espada dupla simples! "+Bonus;
+               return this.Name + "\nAtque em X com espada dupla simples! "+Bonus+" Bonus de Atque!";
                 
             }else{
 
-                return this.Name + "\nAtque em X com espada dupla! " + (Bonus+5)*Bonus;
+                return this.Name + "\nAtque em X com espada dupla! " + (Bonus+5)*Bonus+" Bonus de Atque!";
 
             }
             

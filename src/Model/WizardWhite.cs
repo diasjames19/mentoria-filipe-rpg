@@ -19,11 +19,11 @@ namespace mentoria_filipe_rpg.src.Model
         {
             if(StaffSun != true && Bonus < 1){
                 
-               return this.Name + " Ataque de Luz branca! "+Bonus;
+               return this.Name + " Ataque de Luz branca! "+Bonus+" Bonus de Atque!";
                 
             }else{
 
-                return this.Name + " Atque da Coroa do Sol! " + (Bonus+10)*Bonus;
+                return this.Name + " Atque da Coroa do Sol! " + (Bonus+10)*Bonus+" Bonus de Atque!";
 
             }
             

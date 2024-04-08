@@ -16,11 +16,11 @@ namespace mentoria_filipe_rpg.src.Model
         {
             if(StaffMoon != true && Bonus < 1){
                 
-               return this.Name + " Chuva de Meteoros "+Bonus;
+               return this.Name + " Chuva de Meteoros "+Bonus+" Bonus de Atque!";
                 
             }else{
 
-                return this.Name + " Esquife de Gelo! " + (Bonus+10)*Bonus;
+                return this.Name + " Esquife de Gelo! " + (Bonus+10)*Bonus+" Bonus de Atque!";
 
             }
             

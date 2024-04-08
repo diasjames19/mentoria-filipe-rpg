@@ -25,13 +25,13 @@ namespace mentoria_filipe_rpg.src.Model
 
                 switch(Jutsu){
                         case 1:
-                        return this.Name + "\nArte Ninja!\nKunai dupla " + (Bonus+Jutsu);
+                        return this.Name + "\nArte Ninja!\nKunai dupla " + (Bonus+Jutsu)+"Bonus de Atque!";
                         case 2:
-                        return this.Name + "\nArte Ninja!\nJustsu Clones das sombras\nCombo dos Múltiplos Ataques da Sombra " + Bonus*Jutsu;
+                        return this.Name + "\nArte Ninja!\nJustsu Clones das sombras\nCombo dos Múltiplos Ataques da Sombra " + Bonus*Jutsu+" Bonus de Atque!";
                         case 3:
-                        return this.Name + "\nArte Ninja!\nJutsu estilo bola de Fogo\nSopro do triplo! " + (Bonus+Jutsu)*Jutsu;
+                        return this.Name + "\nArte Ninja!\nJutsu estilo bola de Fogo\nSopro do triplo! " + (Bonus+Jutsu)*Jutsu+" Bonus de Atque!";
                         case 4:
-                        return this.Name + "\nArte Ninja!\nJutsu estilo Raio\nEspada relâmpago Chidori! " + (Bonus+10+Jutsu)*Jutsu;
+                        return this.Name + "\nArte Ninja!\nJutsu estilo Raio\nEspada relâmpago Chidori! " + (Bonus+10+Jutsu)*Jutsu+" Bonus de Atque!";
                     }
                 
 
