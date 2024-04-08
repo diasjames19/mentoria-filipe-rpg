@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace mentoria_filipe_rpg.src.Model
 {
-    public class Wizard
+    public class Wizard : Characters
     {
          public Wizard(string Name, int level, string CategoryType, string CharacterType) : 
         base(Name, level, CategoryType, CharacterType)
