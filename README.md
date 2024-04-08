@@ -14,7 +14,7 @@ Nesse projeto vamos vê H.E.P.A
 
 - Dotenet Versão 6.0
 
-=========================================================================================
+===========================================================================
 
 Na mentoria foi criado as classe, Character model para as classes Knight e Wizard.
 Também foi criado o metodo de ataque dos personagem.
