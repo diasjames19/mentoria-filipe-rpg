@@ -22,3 +22,8 @@ Também foi criado o metodo de ataque dos personagem.
 ### Desafios da Mentoria
 
 Criar os outros personagens WizardWhite,Ninja e WizardBlack e seus ataques.
+
+
+### Desafio Cumprido
+
+Criado os outros personanegens e seus Ataques, feito também um metodo de LeveUp. Sendo esse quando personagem eliminar 10 inimigos comuns na campanha ele sobe 3 pontos de nivel, se um inimigo for um Boss ele irar subir 6 pontos de nivel.
