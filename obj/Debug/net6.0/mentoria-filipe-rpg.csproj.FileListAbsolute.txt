@@ -1,0 +1,15 @@
+E:\Projetos\repositorios\mentoria-filipe-rpg\mentoria-filipe-rpg\bin\Debug\net6.0\mentoria-filipe-rpg.exe
+E:\Projetos\repositorios\mentoria-filipe-rpg\mentoria-filipe-rpg\bin\Debug\net6.0\mentoria-filipe-rpg.deps.json
+E:\Projetos\repositorios\mentoria-filipe-rpg\mentoria-filipe-rpg\bin\Debug\net6.0\mentoria-filipe-rpg.runtimeconfig.json
+E:\Projetos\repositorios\mentoria-filipe-rpg\mentoria-filipe-rpg\bin\Debug\net6.0\mentoria-filipe-rpg.dll
+E:\Projetos\repositorios\mentoria-filipe-rpg\mentoria-filipe-rpg\bin\Debug\net6.0\mentoria-filipe-rpg.pdb
+E:\Projetos\repositorios\mentoria-filipe-rpg\mentoria-filipe-rpg\obj\Debug\net6.0\mentoria-filipe-rpg.csproj.AssemblyReference.cache
+E:\Projetos\repositorios\mentoria-filipe-rpg\mentoria-filipe-rpg\obj\Debug\net6.0\mentoria-filipe-rpg.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\repositorios\mentoria-filipe-rpg\mentoria-filipe-rpg\obj\Debug\net6.0\mentoria-filipe-rpg.AssemblyInfoInputs.cache
+E:\Projetos\repositorios\mentoria-filipe-rpg\mentoria-filipe-rpg\obj\Debug\net6.0\mentoria-filipe-rpg.AssemblyInfo.cs
+E:\Projetos\repositorios\mentoria-filipe-rpg\mentoria-filipe-rpg\obj\Debug\net6.0\mentoria-filipe-rpg.csproj.CoreCompileInputs.cache
+E:\Projetos\repositorios\mentoria-filipe-rpg\mentoria-filipe-rpg\obj\Debug\net6.0\mentoria-filipe-rpg.dll
+E:\Projetos\repositorios\mentoria-filipe-rpg\mentoria-filipe-rpg\obj\Debug\net6.0\refint\mentoria-filipe-rpg.dll
+E:\Projetos\repositorios\mentoria-filipe-rpg\mentoria-filipe-rpg\obj\Debug\net6.0\mentoria-filipe-rpg.pdb
+E:\Projetos\repositorios\mentoria-filipe-rpg\mentoria-filipe-rpg\obj\Debug\net6.0\mentoria-filipe-rpg.genruntimeconfig.cache
+E:\Projetos\repositorios\mentoria-filipe-rpg\mentoria-filipe-rpg\obj\Debug\net6.0\ref\mentoria-filipe-rpg.dll
